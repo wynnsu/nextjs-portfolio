@@ -22,11 +22,11 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Judy",
+                "Zesheng",
                 1000,
                 "Web Developer",
                 1000,
-                "Mobile Developer",
+                "Graphic Designer",
                 1000,
                 "UI/UX Designer",
                 1000,
@@ -37,8 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+          As a specialized Logo Designer with a focus on AI and Tech industries, I blend creativity with tech industry insights to create logos that resonate with tech-savvy audiences. Understanding the unique dynamics of the tech world, I design logos that not only capture the essence of your AI or tech venture but also position your brand as a forward-thinking leader in the digital age. Partner with me to craft a visual identity that's innovative, impactful, and instantly recognizable in the tech community.
           </p>
           <div>
             <Link
