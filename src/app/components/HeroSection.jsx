@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          As a specialized Logo Designer with a focus on AI and Tech industries, I blend creativity with tech industry insights to create logos that resonate with tech-savvy audiences. Understanding the unique dynamics of the tech world, I design logos that not only capture the essence of your AI or tech venture but also position your brand as a forward-thinking leader in the digital age. Partner with me to craft a visual identity that's innovative, impactful, and instantly recognizable in the tech community.
+          As a specialized Logo Designer with a focus on AI and Tech industries, I blend creativity with tech industry insights to create logos that resonate with tech-savvy audiences. Understanding the unique dynamics of the tech world, I design logos that not only capture the essence of your AI or tech venture but also position your brand as a forward-thinking leader in the digital age. Partner with me to craft a visual identity that&apos;s innovative, impactful, and instantly recognizable in the tech community.
           </p>
           <div>
             <Link
